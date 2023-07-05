@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WN/006/BAPcAQg7pqfHJu7kNxIsckA9JczZgNmT3Yg+NIvZW1POy7bQSuK0GtmX3cew390HQ2F6E/w1da8oLzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Roman\\Downloads\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\Roman\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\Roman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\Roman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.18\\microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
